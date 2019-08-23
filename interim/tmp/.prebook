@@ -1,0 +1,4915 @@
+[
+  {
+    "tag": "h3",
+    "innerHtml": "Preface"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I have turned aside from Euripides for a moment and attempted a\ntranslation of the great stage masterpiece of Sophocles, my excuse must\nbe the fascination of this play, which has thrown its spell on me as on\nmany other translators. Yet I may plead also that as a rule every\ndiligent student of these great works can add something to the\ndiscoveries of his predecessors, and I think I have been able to bring\nout a few new points in the old and much-studied <em>Oedipus</em>, chiefly\npoints connected with the dramatic technique and the religious\natmosphere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mythologists tell us that Oedipus was originally a daemon haunting Mount\nKithairon, and Jocasta a form of that Earth-Mother who, as Aeschylus\nputs it, \"bringeth all things to being, and when she hath reared them\nreceiveth again their seed into her body\" (<em>Choephori</em>, 127: cf.\nCrusius, <em>Beiträge z. Gr. Myth</em>, 21). That stage of the story lies very\nfar behind the consciousness of Sophocles. But there does cling about\nboth his hero and his heroine a great deal of very primitive atmosphere.\nThere are traces in Oedipus of the pre-hellenic Medicine King, the\n<em>Basileus</em> who is also a <em>Theos</em>, and can make rain or blue sky,\npestilence or fertility. This explains many things in the Priest's first\nspeech, in the attitude of the Chorus, and in Oedipus' own language\nafter the discovery. It partly explains the hostility of Apollo, who is\nnot a mere motiveless Destroyer but a true Olympian crushing his\nEarth-born rival. And in the same way the peculiar royalty of Jocasta,\nwhich makes Oedipus at times seem not the King but the Consort of the\nQueen, brings her near to that class of consecrated queens described in\nDr. Frazer's <em>Lectures on the Kingship</em>, who are \"honoured as no woman\nnow living on the earth.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The story itself, and the whole spirit in which Sophocles has treated\nit, belong not to the fifth century but to that terrible and romantic\npast from which the fifth century poets usually drew their material. The\natmosphere of brooding dread, the pollution, the curses; the \"insane and\nbeastlike cruelty,\" as an ancient Greek commentator calls it, of\npiercing the exposed child's feet in order to ensure its death and yet\navoid having actually murdered it (<em>Schol. Eur. Phoen.</em>, 26); the whole\ntreatment of the parricide and incest, not as moral offences capable of\nbeing rationally judged or even excused as unintentional, but as\nmonstrous and inhuman pollutions, the last limit of imaginable horror:\nall these things take us back to dark regions of pre-classical and even\npre-homeric belief. We have no right to suppose that Sophocles thought\nof the involuntary parricide and metrogamy as the people in his play do.\nIndeed, considering the general tone of his contemporaries and friends,\nwe may safely assume that he did not. But at any rate he has allowed no\nbreath of later enlightenment to disturb the primaeval gloom of his\natmosphere."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Does this in any way make the tragedy insincere? I think not. We know\nthat people did feel and think about \"pollution\" in the way which\nSophocles represents; and if they so felt, then the tragedy was there."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think these considerations explain the remarkable absence from this\nplay of any criticism of life or any definite moral judgment. I know\nthat some commentators have found in it a \"humble and unquestioning\npiety,\" but I cannot help suspecting that what they saw was only a\nreflection from their own pious and unquestioning minds. Man is indeed\nshown as a \"plaything of Gods,\" but of Gods strangely and\nincomprehensibly malignant, whose ways there is no attempt to explain or\njustify. The original story, indeed, may have had one of its roots in a\nTheban \"moral tale.\" Aelian (<em>Varia Historia</em>, 2, 7 \"tells us that the\" \"\")"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "exposure of a child was forbidden by Theban Law. The state of feeling\nwhich produced this law, against the immensely strong conception of the\n<em>patria potestas</em>, may also have produced a folklore story telling how a\nboy once was exposed, in a peculiarly cruel way, by his wicked parents,\nand how Heaven preserved him to take upon both of them a vengeance which\nshowed that the unnatural father had no longer a father's sanctity nor\nthe unnatural mother a mother's. But, as far as Sophocles is concerned,\nif anything in the nature of a criticism of life has been admitted into\nthe play at all, it seems to be only a flash or two of that profound and\npessimistic arraignment of the ruling powers which in other plays also\nopens at times like a sudden abyss across the smooth surface of his art."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is not much philosophy in the <em>Oedipus</em>. There is not, in\ncomparison with other Greek plays, much pure poetry. What there is, is\ndrama; drama of amazing grandeur and power. In respect of plot no Greek\nplay comes near it. It contains no doubt a few points of unsophisticated\ntechnique such as can be found in all ancient and nearly all modern\ndrama; for instance, the supposition that Oedipus has never inquired\ninto the death of his predecessor on the throne. But such flaws are\nexternal, not essential. On the whole, I can only say that the work of\ntranslation has made me feel even more strongly than before the\nextraordinary grip and reality of the dialogue, the deftness of the\nconstruction, and, except perhaps for a slight drop in the Creon scene,\nthe unbroken crescendo of tragedy from the opening to the close."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where plot-interest is as strong as it is in the <em>Oedipus</em>,\ncharacter-interest is apt to be comparatively weak. Yet in this play\nevery character is interesting, vital, and distinct. Oedipus himself is\nselected by Aristotle as the most effective kind of tragic hero,\nbecause, first, he has been great and glorious, and secondly he has not\nbeen \"pre-eminently virtuous or just.\" This is true in its way. Oedipus\nis too passionate to be just; but he is at least noble in his\nimpetuosity, his devotion, and his absolute truthfulness. It is\nimportant to realise that at the beginning of the play he is prepared\nfor an oracle commanding him to die for his people (pp. 6, 7). And he\nnever thinks of refusing that \"task\" any more than he tries to elude the\ndoom that actually comes, or to conceal any fact that tells against him.\nIf Oedipus had been an ordinary man the play would have been a very\ndifferent and a much poorer thing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Jocasta is a wonderful study. Euripides might have brought her character\nout more explicitly and more at length, but even he could not have made\nher more living or more tragic, or represented more subtly in her\nrelation to Oedipus both the mother's protecting love and the mother's\nauthority. As for her \"impiety,\" of which the old commentaries used to\nspeak with much disapproval, the essential fact in her life is that both\nher innocence and her happiness have, as she believes, been poisoned by\nthe craft of priests. She and Laïus both \"believed a bad oracle\": her\nterror and her love for her husband made her consent to an infamous act\nof cruelty to her own child, an act of which the thought sickens her\nstill, and about which she cannot, when she tries, speak the whole\ntruth. (See note on p. 42. \"And after all her crime was for nothing! The\" \"\")"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "oracle proved to be a lie. Never again will she believe a priest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As to Tiresias, I wish to ask forgiveness for an unintelligent criticism\nmade twelve years ago in my <em>Ancient Greek Literature</em>, p. 240. I\nassumed then, what I fancy was a common assumption, that Tiresias was a\n\"sympathetic\" prophet, compact of wisdom and sanctity and all the\nqualities which beseem that calling; and I complained that he did not\nconsistently act as such. I was quite wrong. Tiresias is not anything so\ninsipid. He is a study of a real type, and a type which all the\ntragedians knew. The character of the professional seer or \"man of God\"\nhas in the imagination of most ages fluctuated between two poles. At one\nextreme are sanctity and superhuman wisdom; at the other fraud and\nmental disease, self-worship aping humility and personal malignity in\nthe guise of obedience to God. There is a touch of all these qualities,\ngood and bad alike, in Tiresias. He seems to me a most life-like as well\nas a most dramatic figure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "As to the Chorus, it generally plays a smaller part in Sophocles than in\nEuripides and Aeschylus, and the <em>Oedipus</em> forms no exception to that\nrule. It seems to me that Sophocles was feeling his way towards a\ntechnique which would have approached that of the New Comedy or even the\nElizabethan stage, and would perhaps have done without a Chorus\naltogether. In Aeschylus Greek tragedy had been a thing of traditional\nforms and clear-cut divisions; the religious ritual showed through, and\nthe visible gods and the disguised dancers were allowed their full\nvalue. And Euripides in the matter of outward formalism went back to the\nAeschylean type and even beyond it: prologue, chorus, messenger, visible\ngod, all the traditional forms were left clear-cut and undisguised and\nall developed to full effectiveness on separate and specific lines. But\nSophocles worked by blurring his structural outlines just as he blurs\nthe ends of his verses. In him the traditional divisions are all made\nless distinct, all worked over in the direction of greater naturalness,\nat any rate in externals. This was a very great gain, but of course some\nprice had to be paid for it. Part of the price was that Sophocles could\nnever attempt the tremendous choric effects which Euripides achieves in\nsuch plays as the <em>Bacchae</em> and the <em>Trojan Women</em>. His lyrics, great as\nthey sometimes are, move their wings less boldly. They seem somehow tied\nto their particular place in the tragedy, and they have not quite the\nstrength to lift the whole drama bodily aloft with them.... At least\nthat is my feeling. But I realise that this may be only the complaint of\nan unskilful translator, blaming his material for his own defects of\nvision."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In general, both in lyrics and in dialogue, I believe I have allowed\nmyself rather less freedom than in translating Euripides. This is partly\nbecause the writing of Euripides, being less business-like and more\npenetrated by philosophic reflections and by subtleties of technique,\nactually needs more thorough re-casting to express it at all adequately;\npartly because there is in Sophocles, amid all his passion and all his\nnaturalness, a certain severe and classic reticence, which, though\nimpossible really to reproduce by any method, is less misrepresented by\noccasional insufficiency than by habitual redundance."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have asked pardon for an ill deed done twelve years ago. I should like\nto end by speaking of a benefit older still, and express something of\nthe gratitude I feel to my old master, Francis Storr, whose teaching is\nstill vivid in my mind and who first opened my eyes to the grandeur of\nthe <em>Oedipus</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "G. M."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Characters In The Play"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "OEDIPUS, supposed son of Polybus, King of Corinth; now elected King of\nThebes.",
+        "JOCASTA, Queen of Thebes; widow of Laïus, the late King, and now wife\nto Oedipus.",
+        "CREON, a Prince of Thebes, brother to Jocasta.",
+        "TIRESIAS, an old blind seer.",
+        "PRIEST OF ZEUS.",
+        "A STRANGER from Corinth.",
+        "A SHEPHERD of King Laïus.",
+        "A MESSENGER from the Palace.",
+        "CHORUS of the Elders of Thebes.",
+        "A Crowd of Suppliants, men, women, and children."
+      ]
+    }
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p>The following do not appear in the play but are frequently mentioned:—</p>"
+  },
+  {
+    "tag": "ul",
+    "innerHtml": {
+      "list": [
+        "LAÏUS (pronounced as three syllables, Lá-i-us), the last King of Thebes\nbefore Oedipus.",
+        "CADMUS, the founder of Thebes; son of Agênor, King of Sidon.",
+        "POLYBUS AND MEROPÊ, King and Queen of Corinth, supposed to be the\nfather and mother of Oedipus.",
+        "APOLLO, the God specially presiding over the oracle of Delphi and the\nisland Delos: he is also called PHOEBUS, the pure; LOXIAS,\nsupposed to mean \"He of the Crooked Words\"; and LYKEIOS, _supposed\nto mean \"Wolf-God.\" He is also the great Averter of Evil, and has\nnames from the cries \"I-ê\" (pronounced \"Ee-ay\" \"and \"Paian,\" cries\" \"\") \nfor healing or for the frightening away of evil influences._",
+        "KITHAIRON, a mass of wild mountain south-west of Thebes."
+      ]
+    }
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Argument"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While Thebes was under the rule of LAÏUS and JOCASTA there appeared a\nstrange and monstrous creature, \"the riddling Sphinx,\" \"the She-Wolf of\nthe woven song,\" who in some unexplained way sang riddles of death and\nslew the people of Thebes. LAÏUS went to ask aid of the oracle of\nDelphi, but was slain mysteriously on the road. Soon afterwards there\ncame to Thebes a young Prince of Corinth, OEDIPUS, who had left his home\nand was wandering. He faced the Sphinx and read her riddle, whereupon\nshe flung herself from her rock and died. The throne being vacant was\noffered to OEDIPUS, and with it the hand of the Queen, JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Some ten or twelve years afterwards a pestilence has fallen on Thebes.\nAt this point the play begins."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>The date of the first production of the play is not known, but was\nprobably about the year 425 B.C.</em>"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Oedipus, King Of Thebes"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Scene."
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<p><em>Before the Palace of</em> OEDIPUS <em>at Thebes. A crowd of suppliants\nof all ages are waiting by the altar in front and on the steps of the\nPalace; among them the</em> PRIEST OF ZEUS. <em>As the Palace door opens and</em>\nOEDIPUS <em>comes out all the suppliants with a cry move towards him in\nattitudes of prayer, holding out their olive branches, and then become\nstill again as he speaks.</em></p>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My children, fruit of Cadmus' ancient tree\nNew springing, wherefore thus with bended knee\nPress ye upon us, laden all with wreaths\nAnd suppliant branches? And the city breathes\nHeavy with incense, heavy with dim prayer\nAnd shrieks to affright the Slayer.—Children, care\nFor this so moves me, I have scorned withal\nMessage or writing: seeing 'tis I ye call,\n'Tis I am come, world-honoured Oedipus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Old Man, do thou declare—the rest have thus\nTheir champion—in what mood stand ye so still,\nIn dread or sure hope? Know ye not, my will\nIs yours for aid 'gainst all? Stern were indeed\nThe heart that felt not for so dire a need."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 15-39]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRIEST."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Oedipus, who holdest in thy hand\nMy city, thou canst see what ages stand\nAt these thine altars; some whose little wing\nScarce flieth yet, and some with long living\nO'erburdened; priests, as I of Zeus am priest,\nAnd chosen youths: and wailing hath not ceased\nOf thousands in the market-place, and by\nAthena's two-fold temples and the dry\nAsh of Ismênus' portent-breathing shore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For all our ship, thou see'st, is weak and sore\nShaken with storms, and no more lighteneth\nHer head above the waves whose trough is death.\nShe wasteth in the fruitless buds of earth,\nIn parchèd herds and travail without birth\nOf dying women: yea, and midst of it\nA burning and a loathly god hath lit\nSudden, and sweeps our land, this Plague of power;\nTill Cadmus' house grows empty, hour by hour,\nAnd Hell's house rich with steam of tears and blood."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O King, not God indeed nor peer to God\nWe deem thee, that we kneel before thine hearth,\nChildren and old men, praying; but of earth\nA thing consummate by thy star confessed\nThou walkest and by converse with the blest;\nWho came to Thebes so swift, and swept away\nThe Sphinx's song, the tribute of dismay,\nThat all were bowed beneath, and made us free.\nA stranger, thou, naught knowing more than we,\nNor taught of any man, but by God's breath\nFilled, thou didst raise our life. So the world saith;\nSo we say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 40-69]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Therefore now, O Lord and Chief,\nWe come to thee again; we lay our grief\nOn thy head, if thou find us not some aid.\nPerchance thou hast heard Gods talking in the shade\nOf night, or eke some man: to him that knows,\nMen say, each chance that falls, each wind that blows\nHath life, when he seeks counsel. Up, O chief\nOf men, and lift thy city from its grief;\nFace thine own peril! All our land doth hold\nThee still our saviour, for that help of old:\nShall they that tell of thee hereafter tell\n\"By him was Thebes raised up, and after fell!\"\nNay, lift us till we slip no more. Oh, let\nThat bird of old that made us fortunate\nWing back; be thou our Oedipus again.\nAnd let thy kingdom be a land of men,\nNot emptiness. Walls, towers, and ships, they all\nAre nothing with no men to keep the wall."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My poor, poor children! Surely long ago\nI have read your trouble. Stricken, well I know,\nYe all are, stricken sore: yet verily\nNot one so stricken to the heart as I.\nYour grief, it cometh to each man apart\nFor his own loss, none other's; but this heart\nFor thee and me and all of us doth weep.\nWherefore it is not to one sunk in sleep\nYe come with waking. Many tears these days\nFor your sake I have wept, and many ways\nHave wandered on the beating wings of thought.\nAnd, finding but one hope, that I have sought"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 70-86]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And followed. I have sent Menoikeus' son,\nCreon, my own wife's brother, forth alone\nTo Apollo's House in Delphi, there to ask\nWhat word, what deed of mine, what bitter task,\nMay save my city.\nAnd the lapse of days\nReckoned, I can but marvel what delays\nHis journey. 'Tis beyond all thought that thus\nHe comes not, beyond need. But when he does,\nThen call me false and traitor, if I flee\nBack from whatever task God sheweth me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRIEST."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At point of time thou speakest. Mark the cheer\nYonder. Is that not Creon drawing near?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![<em>They all crowd to gaze where</em> CREON <em>is\napproaching in the distance.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Lord Apollo, help! And be the star\nThat guides him joyous as his seemings are!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRIEST."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh! surely joyous! How else should he bear\nThat fruited laurel wreathed about his hair?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We soon shall know.—'Tis not too far for one\nClear-voiced."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "(<em>Shouting</em> \"Ho, brother! Prince! Menoikeus' son,\" \"\")"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What message from the God?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 87-99]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON (from a distance)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Message of joy!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Enter</em> CREON"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I tell thee, what is now our worst annoy,\nIf the right deed be done, shall turn to good."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The crowd, which has been full of excited\nhope, falls to doubt and disappointment.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay, but what is the message? For my blood\nRuns neither hot nor cold for words like those."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shall I speak now, with all these pressing close,\nOr pass within?—To me both ways are fair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak forth to all! The grief that these men bear\nIs more than any fear for mine own death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I speak then what I heard from God.—Thus saith\nPhoebus, our Lord and Seer, in clear command.\nAn unclean thing there is, hid in our land,\nEating the soil thereof: this ye shall cast\nOut, and not foster till all help be past."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How cast it out? What was the evil deed?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 100-113]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Hunt the men out from Thebes, or make them bleed\nWho slew. For blood it is that stirs to-day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who was the man they killed? Doth Phoebus say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O King, there was of old King Laïus\nIn Thebes, ere thou didst come to pilot us."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know: not that I ever saw his face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas he. And Loxias now bids us trace\nAnd smite the unknown workers of his fall."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where in God's earth are they? Or how withal\nFind the blurred trail of such an ancient stain?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In Thebes, he said.—That which men seek amain\nThey find. 'Tis things forgotten that go by."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And where did Laïus meet them? Did he die\nIn Thebes, or in the hills, or some far land?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 114-127]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To ask God's will in Delphi he had planned\nHis journey. Started and returned no more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And came there nothing back? No message, nor\nNone of his company, that ye might hear?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They all were slain, save one man; blind with fear\nHe came, remembering naught—or almost naught."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And what was that? One thing has often brought\nOthers, could we but catch one little clue."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas not one man, 'twas robbers—that he knew—\nWho barred the road and slew him: a great band."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Robbers?... What robber, save the work was planned\nBy treason here, would dare a risk so plain?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So some men thought. But Laïus lay slain,\nAnd none to avenge him in his evil day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 128-148]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And what strange mischief, when your master lay\nThus fallen, held you back from search and deed?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The dark-songed Sphinx was here. We had no heed\nOf distant sorrows, having death so near."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It falls on me then. I will search and clear\nThis darkness.—Well hath Phoebus done, and thou\nToo, to recall that dead king, even now,\nAnd with you for the right I also stand,\nTo obey the God and succour this dear land.\nNor is it as for one that touches me\nFar off; 'tis for mine own sake I must see\nThis sin cast out. Whoe'er it was that slew\nLaïus, the same wild hand may seek me too:\nAnd caring thus for Laïus, is but care\nFor mine own blood.—Up! Leave this altar-stair,\nChildren. Take from it every suppliant bough.\nThen call the folk of Thebes. Say, 'tis my vow\nTo uphold them to the end. So God shall crown\nOur greatness, or for ever cast us down."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He goes in to the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "PRIEST."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My children, rise.—The King most lovingly\nHath promised all we came for. And may He"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 149-161]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who sent this answer, Phoebus, come confessed\nHelper to Thebes, and strong to stay the pest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The suppliants gather up their boughs and\nstand at the side. The chorus of Theban\nelders enter.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They speak of the Oracle which they have not\nyet heard, and cry to</em> APOLLO <em>by his\nspecial cry \"I-ê.\"</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A Voice, a Voice, that is borne on the Holy Way!\nWhat art thou, O Heavenly One, O Word of the Houses of Gold?\nThebes is bright with thee, and my heart it leapeth; yet is it cold,\nAnd my spirit faints as I pray.\nI-ê! I-ê!\nWhat task, O Affrighter of Evil, what task shall thy people essay?\nOne new as our new-come affliction,\nOr an old toil returned with the years?\nUnveil thee, thou dread benediction,\nHope's daughter and Fear's."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They pray to</em> ATHENA, ARTEMIS, <em>and</em>\nAPOLLO."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Zeus-Child that knowest not death, to thee I pray,\nO Pallas; next to thy Sister, who calleth Thebes her own,\nArtemis, named of Fair Voices, who sitteth her orbèd throne\nIn the throng of the market way:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 162-189]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And I-ê! I-ê!\nApollo, the Pure, the Far-smiter; O Three that keep evil away,\nIf of old for our city's desire,\nWhen the death-cloud hung close to her brow,\nYe have banished the wound and the fire,\nOh! come to us now!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They tell of the Pestilence.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wounds beyond telling; my people sick unto death;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And where is the counsellor, where is the sword of thought?\nAnd Holy Earth in her increase perisheth:"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The child dies and the mother awaketh not.\nI-ê! I-ê!\nWe have seen them, one on another, gone as a bird is gone,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Souls that are flame; yea, higher,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Swifter they pass than fire,\nTo the rocks of the dying Sun."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They end by a prayer to</em> ATHENA,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Their city wasteth unnumbered; their children lie"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where death hath cast them, unpitied, unwept upon.\nThe altars stand, as in seas of storm a high"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rock standeth, and wives and mothers grey thereon\nWeep, weep and pray.\nLo, joy-cries to fright the Destroyer; a flash in the dark they rise,\nThen die by the sobs overladen.\nSend help, O heaven-born Maiden,\nLet us look on the light of her eyes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 190-217]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To</em> ZEUS, <em>that he drive out the Slayer,</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And Ares, the abhorred\nSlayer, who bears no sword,\nBut shrieking, wrapped in fire, stands over me,\nMake that he turn, yea, fly\nBroken, wind-wasted, high\nDown the vexed hollow of the Vaster Sea;\nOr back to his own Thrace,\nTo harbour shelterless.\nWhere Night hath spared, he bringeth end by day.\nHim, Him, O thou whose hand\nBeareth the lightning brand,\nO Father Zeus, now with thy thunder, slay and slay!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>To</em> APOLLO, ARTEMIS, <em>and</em> DIONYSUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where is thy gold-strung bow,\nO Wolf-god, where the flow\nOf living shafts unconquered, from all ills\nOur helpers? Where the white\nSpears of thy Sister's light,\nFar-flashing as she walks the wolf-wild hills?\nAnd thou, O Golden-crown,\nTheban and named our own,\nO Wine-gleam, Voice of Joy, for ever more"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ringed with thy Maenads white,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Bacchus, draw near and smite,\nSmite with thy glad-eyed flame the God whom Gods abhor."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>During the last lines</em> OEDIPUS <em>has\ncome out from the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou prayest: but my words if thou wilt hear\nAnd bow thee to their judgement, strength is near"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 218-245]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For help, and a great lightening of ill.\nThereof I come to speak, a stranger still\nTo all this tale, a stranger to the deed:\n(Else, save that I were clueless, little need\nHad I to cast my net so wide and far:)\nHowbeit, I, being now as all ye are,\nA Theban, to all Thebans high and low\nDo make proclaim: if any here doth know\nBy what man's hand died Laïus, your King,\nLabdacus' son, I charge him that he bring\nTo me his knowledge. Let him feel no fear\nIf on a townsman's body he must clear\nOur guilt: the man shall suffer no great ill,\nBut pass from Thebes, and live where else he will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>No answer.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is it some alien from an alien shore\nYe know to have done the deed, screen him no more!\nGood guerdon waits you now and a King's love\nHereafter.\nHah! If still ye will not move\nBut, fearing for yourselves or some near friend,\nReject my charge, then hearken to what end\nYe drive me.—If in this place men there be\nWho know and speak not, lo, I make decree\nThat, while in Thebes I bear the diadem,\nNo man shall greet, no man shall shelter them,\nNor give them water in their thirst, nor share\nIn sacrifice nor shrift nor dying prayer,\nBut thrust them from our doors, the thing they hide\nBeing this land's curse. Thus hath the God replied\nThis day to me from Delphi, and my sword\nI draw thus for the dead and for God's word."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 246-273]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And lastly for the murderer, be it one\nHiding alone or more in unison,\nI speak on him this curse: even as his soul\nIs foul within him let his days be foul,\nAnd life unfriended grind him till he die.\nMore: if he ever tread my hearth and I\nKnow it, be every curse upon my head\nThat I have spoke this day.\nAll I have said\nI charge ye strictly to fulfil and make\nPerfect, for my sake, for Apollo's sake,\nAnd this land's sake, deserted of her fruit\nAnd cast out from her gods. Nay, were all mute\nAt Delphi, still 'twere strange to leave the thing\nUnfollowed, when a true man and a King\nLay murdered. All should search. But I, as now\nOur fortunes fall—his crown is on my brow,\nHis wife lies in my arms, and common fate,\nHad but his issue been more fortunate,\nMight well have joined our children—since this red\nChance hath so stamped its heel on Laïus' head,\nI am his champion left, and, as I would\nFor mine own father, choose for ill or good\nThis quest, to find the man who slew of yore\nLabdacus' son, the son of Polydore,\nSon of great Cadmus whom Agenor old\nBegat, of Thebes first master. And, behold,\nFor them that aid me not, I pray no root\nNor seed in earth may bear them corn nor fruit,\nNo wife bear children, but this present curse\nCleave to them close and other woes yet worse."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Enough: ye other people of the land,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 274-289]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whose will is one with mine, may Justice stand\nYour helper, and all gods for evermore."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The crowd disperses.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O King, even while thy curse yet hovers o'er\nMy head, I answer thee. I slew him not,\nNor can I shew the slayer. But, God wot,\nIf Phoebus sends this charge, let Phoebus read\nIts meaning and reveal who did the deed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye, that were just, if of his grace he would\nReveal it. How shall man compel his God?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Second to that, methinks, 'twould help us most ..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Though it be third, speak! Nothing should be lost."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To our High Seer on earth vision is given\nMost like to that High Phoebus hath in heaven.\nAsk of Tiresias: he could tell thee true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That also have I thought for. Aye, and two\nHeralds have sent ere now. 'Twas Creon set\nMe on.—I marvel that he comes not yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 290-301]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Our other clues are weak, old signs and far."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What signs? I needs must question all that are."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Some travellers slew him, the tale used to be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The tale, yes: but the witness, where is he?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man hath heard thy curses. If he knows\nThe taste of fear, he will not long stay close."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He fear my words, who never feared the deed?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Well, there is one shall find him.—See, they lead\nHither our Lord Tiresias, in whose mind\nAll truth is born, alone of human kind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Enter</em> TIRESIAS <em>led by a young disciple. He is an old\nblind man in a prophet's robe, dark, unkempt and\nsinister in appearance.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tiresias, thou whose mind divineth well\nAll Truth, the spoken and the unspeakable,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 302-321]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The things of heaven and them that walk the earth;\nOur city ... thou canst see, for all thy dearth\nOf outward eyes, what clouds are over her.\nIn which, O gracious Lord, no minister\nOf help, no champion, can we find at all\nSave thee. For Phoebus—thou hast heard withal\nHis message—to our envoy hath decreed\nOne only way of help in this great need:\nTo find and smite with death or banishing,\nHim who smote Laïus, our ancient King.\nOh, grudge us nothing! Question every cry\nOf birds, and all roads else of prophecy\nThou knowest. Save our city: save thine own\nGreatness: save me; save all that yet doth groan\nUnder the dead man's wrong! Lo, in thy hand\nWe lay us. And, methinks, no work so grand\nHath man yet compassed, as, with all he can\nOf chance or power, to help his fellow man."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS (<em>to himself</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah me!\nA fearful thing is knowledge, when to know\nHelpeth no end. I knew this long ago,\nBut crushed it dead. Else had I never come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What means this? Comest thou so deep in gloom?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let me go back! Thy work shall weigh on thee\nThe less, if thou consent, and mine on me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 322-336]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Prophet, this is not lawful; nay, nor kind\nTo Thebes, who feeds thee, thus to veil thy mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis that I like not thy mind, nor the way\nIt goeth. Therefore, lest I also stray...."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He moves to go off.</em> OEDIPUS <em>bars his road.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou shalt not, knowing, turn and leave us! See,\nWe all implore thee, all, on bended knee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All without light!—And never light shall shine\nOn this dark evil that is mine ... and thine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What wilt thou? Know and speak not? In my need\nBe false to me, and let thy city bleed?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I will not wound myself nor thee. Why seek\nTo trap and question me? I will not speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou devil!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Movement of</em> LEADER <em>to check him.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay; the wrath of any stone\nWould rise at him. It lies with thee to have done\nAnd speak. Is there no melting in thine eyes!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 337-351]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Naught lies with me! With thee, with thee there lies,\nI warrant, what thou ne'er hast seen nor guessed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS (<em>to</em> LEADER, <em>who tries to calm him.</em>)"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How can I hear such talk?—he maketh jest\nOf the land's woe—and keep mine anger dumb?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Howe'er I hold it back, 'twill come, 'twill come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The more shouldst thou declare it to thy King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I speak no more. For thee, if passioning\nDoth comfort thee, on, passion to thy fill!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He moves to go.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Fore God, I am in wrath; and speak I will,\nNor stint what I see clear. 'Twas thou, 'twas thou,\nDidst plan this murder; aye, and, save the blow,\nWrought it.—I know thou art blind; else I could swear\nThou, and thou only, art the murderer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS (<em>returning</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So?—I command thee by thine own word's power,\nTo stand accurst, and never from this hour"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 352-363]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak word to me, nor yet to these who ring\nThy throne. Thou art thyself the unclean thing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou front of brass, to fling out injury\nSo wild! Dost think to bate me and go free?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I am free. The strong truth is in this heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What prompted thee? I swear 'twas not thine art."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas thou. I spoke not, save for thy command."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Spoke what? What was it? Let me understand."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dost tempt me? Were my words before not plain!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Scarce thy full meaning. Speak the words again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou seek'st this man of blood: Thyself art he."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twill cost thee dear, twice to have stabbed at me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 364-377]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Shall I say more, to see thee rage again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, take thy fill of speech: 'twill all be vain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou livest with those near to thee in shame\nMost deadly, seeing not thyself nor them."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou think'st 'twill help thee, thus to speak and speak?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Surely, until the strength of Truth be weak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis weak to none save thee. Thou hast no part\nIn truth, thou blind man, blind eyes, ears and heart."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "More blind, more sad thy words of scorn, which none\nWho hears but shall cast back on thee: soon, soon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou spawn of Night, not I nor any free\nAnd seeing man would hurt a thing like thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "God is enough.—'Tis not my doom to fall\nBy thee. He knows and shall accomplish all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 378-402]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS (<em>with a flash of discovery</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ha! Creon!—Is it his or thine, this plot?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis thyself hates thee. Creon hates thee not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O wealth and majesty, O conquering skill\nThat carved life's rebel pathways to my will,\nWhat is your heart but bitterness, if now\nFor this poor crown Thebes bound upon my brow,\nA gift, a thing I sought not—for this crown\nCreon the stern and true, Creon mine own\nComrade, comes creeping in the dark to ban\nAnd slay me; sending first this magic-man\nAnd schemer, this false beggar-priest, whose eye\nIs bright for gold and blind for prophecy?\nSpeak, thou. When hast thou ever shown thee strong\nFor aid? The She-Wolf of the woven song\nCame, and thy art could find no word, no breath,\nTo save thy people from her riddling death.\n'Twas scarce a secret, that, for common men\nTo unravel. There was need of Seer-craft then.\nAnd thou hadst none to show. No fowl, no flame,\nNo God revealed it thee. 'Twas I that came,\nRude Oedipus, unlearned in wizard's lore,\nAnd read her secret, and she spoke no more.\nWhom now thou thinkest to hunt out, and stand\nForemost in honour at King Creon's hand.\nI think ye will be sorry, thou and he\nThat shares thy sin-hunt. Thou dost look to me"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 403-424]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "An old man; else, I swear this day should bring\nOn thee the death thou plottest for thy King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lord Oedipus, these be but words of wrath,\nAll thou hast spoke and all the Prophet hath.\nWhich skills not. We must join, for ill or well,\nIn search how best to obey God's oracle."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King though thou art, thou needs must bear the right\nOf equal answer. Even in me is might\nFor thus much, seeing I live no thrall of thine,\nBut Lord Apollo's; neither do I sign\nWhere Creon bids me.\nI am blind, and thou\nHast mocked my blindness. Yea, I will speak now.\nEyes hast thou, but thy deeds thou canst not see\nNor where thou art, nor what things dwell with thee.\nWhence art thou born? Thou know'st not; and unknown,\nOn quick and dead, on all that were thine own,\nThou hast wrought hate. For that across thy path\nRising, a mother's and a father's wrath,\nTwo-handed, shod with fire, from the haunts of men\nShall scourge thee, in thine eyes now light, but then\nDarkness. Aye, shriek! What harbour of the sea,\nWhat wild Kithairon shall not cry to thee\nIn answer, when thou hear'st what bridal song,\nWhat wind among the torches, bore thy strong\nSail to its haven, not of peace but blood.\nYea, ill things multitude on multitude"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 425-438]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou seest not, which so soon shall lay thee low,\nLow as thyself, low as thy children.—Go,\nHeap scorn on Creon and my lips withal:\nFor this I tell thee, never was there fall\nOf pride, nor shall be, like to thine this day."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To brook such words from this thing? Out, I say!\nOut to perdition! Aye, and quick, before ..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![<em>The</em> LEADER <em>restrains him</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Enough then!—Turn and get thee from my door."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I had not come hadst thou not called me here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I knew thee not so dark a fool. I swear\n'Twere long before I called thee, had I known."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fool, say'st thou? Am I truly such an one?\nThe two who gave thee birth, they held me wise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Birth?... Stop! Who were they? Speak thy prophecies."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This day shall give thee birth and blot thee out."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 439-455]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, riddles everywhere and words of doubt!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye. Thou wast their best reader long ago."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Laugh on. I swear thou still shalt find me so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That makes thy pride and thy calamity."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I have saved this land, and care not if I die."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then I will go.—Give me thine arm, my child."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye, help him quick.—To see him there makes wild\nMy heart. Once gone, he will not vex me more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "TIRESIAS (<em>turning again as he goes</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I fear thee not; nor will I go before\nThat word be spoken which I came to speak.\nHow canst thou ever touch me?—Thou dost seek\nWith threats and loud proclaim the man whose hand\nSlew Laïus. Lo, I tell thee, he doth stand\nHere. He is called a stranger, but these days\nShall prove him Theban true, nor shall he praise\nHis birthright. Blind, who once had seeing eyes,\nBeggared, who once had riches, in strange guise,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 456-478]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His staff groping before him, he shall crawl\nO'er unknown earth, and voices round him call:\n\"Behold the brother-father of his own\nChildren, the seed, the sower and the sown,\nShame to his mother's blood, and to his sire\nSon, murderer, incest-worker.\"\nCool thine ire\nWith thought of these, and if thou find that aught\nFaileth, then hold my craft a thing of naught."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He goes out.</em> OEDIPUS <em>returns to the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They sing of the unknown murderer,</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What man, what man is he whom the voice of Delphi's cell\nHath named of the bloody hand, of the deed no tongue may tell?\nLet him fly, fly, for his need\nHath found him; oh, where is the speed\nThat flew with the winds of old, the team of North-Wind's spell?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For feet there be that follow. Yea, thunder-shod"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And girt with fire he cometh, the Child of God;\nAnd with him are they that fail not, the Sin-Hounds risen from Hell."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For the mountain hath spoken, a voice hath flashed from amid the snows,\nThat the wrath of the world go seek for the man whom no man knows.\nIs he fled to the wild forest,\nTo caves where the eagles nest?\nO angry bull of the rocks, cast out from thy herd-fellows!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 479-512]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Rage in his heart, and rage across his way,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He toileth ever to beat from his ears away\nThe word that floateth about him, living, where'er he goes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>And of the Prophet's strange accusation.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yet strange, passing strange, the wise augur and his lore;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And my heart it cannot speak; I deny not nor assent,\nBut float, float in wonder at things after and before;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did there lie between their houses some old wrath unspent,\nThat Corinth against Cadmus should do murder by the way?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No tale thereof they tell, nor no sign thereof they show;\nWho dares to rise for vengeance and cast Oedipus away\nFor a dark, dark death long ago!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah, Zeus knows, and Apollo, what is dark to mortal eyes;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They are Gods. But a prophet, hath he vision more than mine?\nWho hath seen? Who can answer? There be wise men and unwise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I will wait, I will wait, for the proving of the sign.\nBut I list not nor hearken when they speak Oedipus ill."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We saw his face of yore, when the riddling singer passed;\nAnd we knew him that he loved us, and we saw him great in skill.\nOh, my heart shall uphold him to the last!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 513-531]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Enter</em> CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Good brother citizens, a frantic word\nI hear is spoken by our chosen Lord\nOedipus against me, and here am come\nIndignant. If he dreams, 'mid all this doom\nThat weighs upon us, he hath had from me\nOr deed or lightest thought of injury, ...\n'Fore God, I have no care to see the sun\nLonger with such a groaning name. Not one\nWound is it, but a multitude, if now\nAll Thebes must hold me guilty—aye, and thou\nAnd all who loved me—of a deed so foul."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If words were spoken, it was scarce the soul\nThat spoke them: 'twas some sudden burst of wrath."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The charge was made, then, that Tiresias hath\nMade answer false, and that I bribed him, I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was—perchance for jest. I know not why."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His heart beat true, his eyes looked steadily\nAnd fell not, laying such a charge on me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know not. I have no eyes for the thing\nMy masters do.—But see, here comes the King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 532-550]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Enter</em> OEDIPUS <em>from the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How now, assassin? Walking at my gate\nWith eye undimmed, thou plotter demonstrate\nAgainst this life, and robber of my crown?\nGod help thee! Me! What was it set me down\nThy butt? So dull a brain hast found in me\nAforetime, such a faint heart, not to see\nThy work betimes, or seeing not to smite?\nArt thou not rash, this once! It needeth might\nOf friends, it needeth gold, to make a throne\nThy quarry; and I fear me thou hast none."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One thing alone I ask thee. Let me speak\nAs thou hast spoken; then, with knowledge, wreak\nThy judgement. I accept it without fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "More skill hast thou to speak than I to hear\nThee. There is peril found in thee and hate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That one thing let me answer ere too late."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One thing be sure of, that thy plots are known."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man who thinks that bitter pride alone\nCan guide him, without thought—his mind is sick."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 551-562]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who thinks to slay his brother with a trick\nAnd suffer not himself, his eyes are blind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thy words are more than just. But say what kind\nOf wrong thou fanciest I have done thee. Speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Didst urge me, or didst urge me not, to seek\nA counsel from that man of prophecies?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So judged I then, nor now judge otherwise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Suddenly seeing a mode of attack.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How many years have passed since Laïus ..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The words seem to choke him.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak on. I cannot understand thee thus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>With an effort.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Passed in that bloody tempest from men's sight?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Long years and old. I scarce can tell them right."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At that time was this seer in Thebes, or how?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 563-573]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He was; most wise and honoured, even as now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At that time did he ever speak my name?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No. To mine ear at least it never came."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Held you no search for those who slew your King?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For sure we did, but found not anything."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How came the all-knowing seer to leave it so?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ask him! I speak not where I cannot know."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One thing thou canst, with knowledge full, I wot."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak it. If true, I will conceal it not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This: that until he talked with thee, the seer\nNe'er spoke of me as Laïus' murderer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 574-589]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know not if he hath so spoken now.\nI heard him not.—But let me ask and thou\nAnswer me true, as I have answered thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ask, ask! Thou shalt no murder find in me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My sister is thy wife this many a day?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That charge it is not in me to gainsay."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou reignest, giving equal reign to her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Always to her desire I minister."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Were we not all as one, she thou and I?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes, thou false friend! There lies thy treachery."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not so! Nay, do but follow me and scan\nThine own charge close. Think'st thou that any man\nWould rather rule and be afraid than rule\nAnd sleep untroubled? Nay, where lives the fool—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 590-613]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know them not nor am I one of them—\nWho careth more to bear a monarch's name\nThan do a monarch's deeds? As now I stand\nAll my desire I compass at thy hand.\nWere I the King, full half my deeds were done\nTo obey the will of others, not mine own.\nWere that as sweet, when all the tale were told,\nAs this calm griefless princedom that I hold\nAnd silent power? Am I so blind of brain\nThat ease with glory tires me, and I fain\nMust change them? All men now give me God-speed,\nAll smile to greet me. If a man hath need\nOf thee, 'tis me he calleth to the gate,\nAs knowing that on my word hangs the fate\nOf half he craves. Is life like mine a thing\nTo cast aside and plot to be a King?\nDoth a sane man turn villain in an hour?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For me, I never lusted thus for power\nNor bore with any man who turned such lust\nTo doing.—But enough. I claim but just\nQuestion. Go first to Pytho; find if well\nAnd true I did report God's oracle.\nNext, seek in Thebes for any plots entwined\nBetween this seer and me; which if ye find,\nThen seize and strike me dead. Myself that day\nWill sit with thee as judge and bid thee Slay!\nBut damn me not on one man's guess.—'Tis all\nUnjust: to call a traitor true, to call\nA true man traitor with no cause nor end!\nAnd this I tell thee. He who plucks a friend\nOut from his heart hath lost a treasured thing\nDear as his own dear life.\nBut Time shall bring"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 614-626]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Truth back. 'Tis Time alone can make men know\nWhat hearts are true; the false one day can show."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To one that fears to fall his words are wise,\nO King; in thought the swift win not the prize."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "When he is swift who steals against my reign\nWith plots, then swift am I to plot again.\nWait patient, and his work shall have prevailed\nBefore I move, and mine for ever failed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How then? To banish me is thy intent?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Death is the doom I choose, not banishment."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Wilt never soften, never trust thy friend?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "First I would see how traitors meet their end."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see thou wilt not think."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think to save\nMy life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 627-633]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Think, too, of mine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thine, thou born knave!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yes.... What, if thou art blind in everything?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The King must be obeyed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not if the King\nDoes evil."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To your King! Ho, Thebes, mine own!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thebes is my country, not the King's alone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[OEDIPUS <em>has drawn his sword; the Chorus\nshow signs of breaking into two parties to\nfight for</em> OEDIPUS <em>or for</em> CREON, <em>when\nthe door opens and</em> JOCASTA <em>appears on the\nsteps.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Stay, Princes, stay! See, on the Castle stair\n The Queen Jocasta standeth. Show to her\n Your strife. She will assuage it as is well."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 634-648]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Vain men, what would ye with this angry swell\nOf words heart-blinded? Is there in your eyes\nNo pity, thus, when all our city lies\nBleeding, to ply your privy hates?... Alack,\nMy lord, come in!—Thou, Creon, get thee back\nTo thine own house. And stir not to such stress\nOf peril griefs that are but nothingness."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sister, it is the pleasure of thy lord,\nOur King, to do me deadly wrong. His word\nIs passed on me: 'tis banishment or death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I found him ... I deny not what he saith,\nMy Queen ... with craft and malice practising\nAgainst my life."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ye Gods, if such a thing\nHath once been in my thoughts, may I no more\nSee any health on earth, but, festered o'er\nWith curses, die!—Have done. There is mine oath."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In God's name, Oedipus, believe him, both\nFor my sake, and for these whose hearts are all\nThine own, and for my brother's oath withal."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 649-664]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER. [<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yield; consent; think! My Lord, I conjure thee!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What would ye have me do?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Reject not one who never failed his troth\nOf old and now is strong in his great oath."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dost know what this prayer means?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yea, verily!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Say then the meaning true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I would not have thee cast to infamy\nOf guilt, where none is proved,\nOne who hath sworn and whom thou once hast loved."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis that ye seek? For me, then ... understand\nWell ... ye seek death or exile from the land."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, by the God of Gods, the all-seeing Sun!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "May he desert me here, and every friend\nWith him, to death and utterest malison,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If e'er my heart could dream of such an end!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 665-680]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But it bleedeth, it bleedeth sore,\nIn a land half slain,\nIf we join to the griefs of yore\nGriefs of you twain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, let him go, though it be utterly\nMy death, or flight from Thebes in beggary.\n'Tis thy sad lips, not his, that make me know\nPity. Him I shall hate, where'er he go."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see thy mercy moving full of hate\nAnd slow; thy wrath came swift and desperate.\nMethinks, of all the pain that such a heart\nSpreadeth, itself doth bear the bitterest part."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, leave me and begone!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I go, wronged sore\nBy thee. These friends will trust me as before."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[CREON <em>goes.</em> OEDIPUS <em>stands apart lost in\ntrouble of mind.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER.   [<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Queen, wilt thou lead him to his house again?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I will, when I have heard."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 681-696]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There fell some word, some blind imagining\nBetween them. Things known foolish yet can sting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From both the twain it rose?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From both the twain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye, and what was the word?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Surely there is enough of evil stirred,\nAnd Thebes heaves on the swell\nOf storm.—Oh, leave this lying where it fell."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So be it, thou wise counsellor! Make slight\nMy wrong, and blunt my purpose ere it smite."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O King, not once I have answered. Visibly"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Mad were I, lost to all wise usages,\nTo seek to cast thee from us. 'Twas from thee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "We saw of old blue sky and summer seas,\nWhen Thebes in the storm and rain\nReeled, like to die.\nOh, if thou canst, again\nBlue sky, blue sky...!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 697-713]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Husband, in God's name, say what hath ensued\nOf ill, that thou shouldst seek so dire a feud."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I will, wife. I have more regard for thee\nThan these.—Thy brother plots to murder me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak on. Make all thy charge. Only be clear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He says that I am Laïus' murderer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Says it himself? Says he hath witnesses?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay, of himself he ventures nothing. 'Tis\nThis priest, this hellish seer, makes all the tale."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The seer?—Then tear thy terrors like a veil\nAnd take free breath. A seer? No human thing\nBorn on the earth hath power for conjuring\nTruth from the dark of God.\nCome, I will tell\nAn old tale. There came once an oracle\nTo Laïus: I say not from the God\nHimself, but from the priests and seers who trod\nHis sanctuary: if ever son were bred\nFrom him and me, by that son's hand, it said,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 714-732]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Laïus must die. And he, the tale yet stays\nAmong us, at the crossing of three ways\nWas slain by robbers, strangers. And my son—\nGod's mercy!—scarcely the third day was gone\nWhen Laïus took, and by another's hand\nOut on the desert mountain, where the land\nIs rock, cast him to die. Through both his feet\nA blade of iron they drove. Thus did we cheat\nApollo of his will. My child could slay\nNo father, and the King could cast away\nThe fear that dogged him, by his child to die\nMurdered.—Behold the fruits of prophecy!\nWhich heed not thou! God needs not that a seer\nHelp him, when he would make his dark things clear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Woman, what turmoil hath thy story wrought\nWithin me! What up-stirring of old thought!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What thought? It turns thee like a frightened thing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas at the crossing of three ways this King\nWas murdered? So I heard or so I thought."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That was the tale. It is not yet forgot."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The crossing of three ways! And in what land?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 733-746]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Phokis 'tis called. A road on either hand\nFrom Delphi comes and Daulia, in a glen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How many years and months have passed since then?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas but a little time before proclaim\nWas made of thee for king, the tidings came."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My God, what hast thou willed to do with me?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oedipus, speak! What is it troubles thee?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ask me not yet. But say, what build, what height\nHad Laïus? Rode he full of youth and might?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Tall, with the white new gleaming on his brow\nHe walked. In shape just such a man as thou."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "God help me! I much fear that I have wrought\nA curse on mine own head, and knew it not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How sayst thou? O my King, I look on thee\nAnd tremble."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 747-760]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS (<em>to himself</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Horror, if the blind can see!\nAnswer but one thing and 'twill all be clear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Speak. I will answer though I shake with fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Went he with scant array, or a great band\nOf armèd followers, like a lord of land?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Four men were with him, one a herald; one\nChariot there was, where Laïus rode alone."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye me! Tis clear now.\nWoman, who could bring\nTo Thebes the story of that manslaying?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A house-thrall, the one man they failed to slay."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The one man...? Is he in the house to-day?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Indeed no. When he came that day, and found\nThee on the throne where once sat Laïus crowned,\nHe took my hand and prayed me earnestly"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 761-779]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To send him to the mountain heights, to be\nA herdsman, far from any sight or call\nOf Thebes. And there I sent him. 'Twas a thrall\nGood-hearted, worthy a far greater boon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Canst find him? I would see this herd, and soon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis easy. But what wouldst thou with the herd?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I fear mine own voice, lest it spoke a word\nToo much; whereof this man must tell me true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The man shall come.—My lord, methinks I too\nShould know what fear doth work thee this despite."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou shalt. When I am tossed to such an height\nOf dark foreboding, woman, when my mind\nFaceth such straits as these, where should I find\nA mightier love than thine?\nMy father—thus\nI tell thee the whole tale—was Polybus,\nIn Corinth King; my mother Meropê\nOf Dorian line. And I was held to be\nThe proudest in Corinthia, till one day\nA thing befell: strange was it, but no way\nMeet for such wonder and such rage as mine.\nA feast it was, and some one flushed with wine"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 780-807]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cried out at me that I was no true son\nOf Polybus. Oh, I was wroth! That one\nDay I kept silence, but the morrow morn\nI sought my parents, told that tale of scorn\nAnd claimed the truth; and they rose in their pride\nAnd smote the mocker.... Aye, they satisfied\nAll my desire; yet still the cavil gnawed\nMy heart, and still the story crept abroad."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "At last I rose—my father knew not, nor\nMy mother—and went forth to Pytho's floor\nTo ask. And God in that for which I came\nRejected me, but round me, like a flame,\nHis voice flashed other answers, things of woe,\nTerror, and desolation. I must know\nMy mother's body and beget thereon\nA race no mortal eye durst look upon,\nAnd spill in murder mine own father's blood."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I heard, and, hearing, straight from where I stood,\nNo landmark but the stars to light my way,\nFled, fled from the dark south where Corinth lay,\nTo lands far off, where never I might see\nMy doom of scorn fulfilled. On bitterly\nI strode, and reached the region where, so saith\nThy tale, that King of Thebes was struck to death....\nWife, I will tell thee true. As one in daze\nI walked, till, at the crossing of three ways,\nA herald, like thy tale, and o'er his head\nA man behind strong horses charioted\nMet me. And both would turn me from the path,\nHe and a thrall in front. And I in wrath\nSmote him that pushed me—'twas a groom who led\nThe horses. Not a word the master said,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 808-828]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But watched, and as I passed him on the road\nDown on my head his iron-branchèd goad\nStabbed. But, by heaven, he rued it! In a flash\nI swung my staff and saw the old man crash\nBack from his car in blood.... Then all of them\nI slew.\nOh, if that man's unspoken name\nHad aught of Laïus in him, in God's eye\nWhat man doth move more miserable than I,\nMore dogged by the hate of heaven! No man, kin\nNor stranger, any more may take me in;\nNo man may greet me with a word, but all\nCast me from out their houses. And withal\n'Twas mine own self that laid upon my life\nThese curses.—And I hold the dead man's wife\nIn these polluting arms that spilt his soul....\nAm I a thing born evil? Am I foul\nIn every vein? Thebes now doth banish me,\nAnd never in this exile must I see\nMine ancient folk of Corinth, never tread\nThe land that bore me; else my mother's bed\nShall be defiled, and Polybus, my good\nFather, who loved me well, be rolled in blood.\nIf one should dream that such a world began\nIn some slow devil's heart, that hated man,\nWho should deny him?—God, as thou art clean,\nSuffer not this, oh, suffer not this sin\nTo be, that e'er I look on such a day!\nOut of all vision of mankind away\nTo darkness let me fall ere such a fate\nTouch me, so unclean and so desolate!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 829-850]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I tremble too, O King; but till thou hear\nFrom him who saw, oh, let hope conquer fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One shred of hope I still have, and therefore\nWill wait the herdsman's coming. 'Tis no more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He shall come. But what further dost thou seek?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This. If we mark him close and find him speak\nAs thou hast, then I am lifted from my dread."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What mean'st thou? Was there something that I said...?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou said'st he spoke of robbers, a great band,\nThat slaughtered Laïus' men. If still he stand\nTo the same tale, the guilt comes not my way.\nOne cannot be a band. But if he say\nOne lonely loin-girt man, then visibly\nThis is God's finger pointing toward me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Be sure of this. He told the story so\nWhen first he came. All they that heard him know,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 850-870]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not only I. He cannot change again\nNow. And if change he should, O Lord of men,\nNo change of his can make the prophecy\nOf Laïus' death fall true. He was to die\nSlain by my son. So Loxias spake.... My son!\nHe slew no man, that poor deserted one\nThat died.... And I will no more turn mine eyes\nThis way nor that for all their prophecies."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Woman, thou counsellest well. Yet let it not\nEscape thee. Send and have the herdsman brought."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That will I.—Come. Thou knowest I ne'er would do\nNor think of aught, save thou wouldst have it so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[JOCASTA <em>and</em> OEDIPUS <em>go together into the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They pray to be free from such great sins as\nthey have just heard spoken of.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Toward God's great mysteries, oh, let me move\nUnstainèd till I die\nIn speech or doing; for the Laws thereof\nAre holy, walkers upon ways above,\nBorn in the far blue sky;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Their father is Olympus uncreate;\nNo man hath made nor told\nTheir being; neither shall Oblivion set"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 870-893]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sleep on their eyes, for in them lives a great"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Spirit and grows not old. [<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They wonder if these sins be all due to pride\nand if</em> CREON <em>has guilty ambitions;</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis Pride that breeds the tyrant; drunken deep\nWith perilous things is she,\nWhich bring not peace: up, reeling, steep on steep\nShe climbs, till lo, the rock-edge, and the leap\nTo that which needs must be,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The land where the strong foot is no more strong!\nYet is there surely Pride\nThat saves a city; God preserve it long!\nI judge not. Only through all maze of wrong\nBe God, not man, my guide. [<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Or if</em> TIRESIAS <em>can really be a lying prophet with\nno fear of God; they feel that all faith in\noracles and the things of God is shaken.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is there a priest who moves amid the altars\nRuthless in deed and word,\nFears not the presence of his god, nor falters\nLest Right at last be heard?\nIf such there be, oh, let some doom be given\nMeet for his ill-starred pride,\nWho will not gain his gain where Justice is,\nWho will not hold his lips from blasphemies,\nWho hurls rash hands amid the things of heaven\nFrom man's touch sanctified."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In a world where such things be,\nWhat spirit hath shield or lance"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 893-916]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To ward him secretly\nFrom the arrow that slays askance?\nIf honour to such things be,\nWhy should I dance my dance?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I go no more with prayers and adorations\nTo Earth's deep Heart of Stone,\nNor yet the Abantes' floor, nor where the nations\nKneel at Olympia's throne,\nTill all this dark be lightened, for the finger\nOf man to touch and know.\nO Thou that rulest—if men rightly call\nThy name on earth—O Zeus, thou Lord of all\nAnd Strength undying, let not these things linger\nUnknown, tossed to and fro."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For faint is the oracle,\nAnd they thrust it aside, away;\nAnd no more visible\nApollo to save or slay;\nAnd the things of God, they fail\nAs mist on the wind away."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[JOCASTA <em>comes out from the Palace followed\nby handmaids bearing incense and flowers.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lords of the land, the ways my thought hath trod\nLead me in worship to these shrines of God\nWith flowers and incense flame. So dire a storm\nDoth shake the King, sin, dread and every form\nOf grief the world knows. 'Tis the wise man's way\nTo judge the morrow by the yester day;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 917-933]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Which he doth never, but gives eye and ear\nTo all who speak, will they but speak of fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And seeing no word of mine hath power to heal\nHis torment, therefore forth to thee I steal,\nO Slayer of the Wolf, O Lord of Light,\nApollo: thou art near us, and of right\nDost hold us thine: to thee in prayer I fall."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She kneels at the altar of Apollo Lukeios.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, show us still some path that is not all\nUnclean; for now our captain's eyes are dim\nWith dread, and the whole ship must follow him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>While she prays a</em> STRANGER <em>has entered and\nbegins to accost the Chorus.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Good masters, is there one of you could bring\nMy steps to the house of Oedipus, your King?\nOr, better, to himself if that may be?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the house and he within; and she\nThou seest, the mother of his royal seed."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[JOCASTA <em>rises, anxious, from her prayer.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Being wife to such a man, happy indeed\nAnd ringed with happy faces may she live!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To one so fair of speech may the Gods give\nLike blessing, courteous stranger; 'tis thy due.\nBut say what leads thee hither. Can we do\nThy wish in aught, or hast thou news to bring?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 934-947]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Good news, O Queen, for thee and for the King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What is it? And from what prince comest thou?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I come from Corinth.—And my tale, I trow,\nWill give thee joy, yet haply also pain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What news can have that twofold power? Be plain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis spoke in Corinth that the gathering\nOf folk will make thy lord our chosen King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How? Is old Polybus in power no more?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Death has a greater power. His reign is o'er."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What say'st thou? Dead?... Oedipus' father dead?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I speak false, let me die in his stead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ho, maiden! To our master! Hie thee fast\nAnd tell this tale."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The maiden goes.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Where stand ye at the last"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 948-961]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ye oracles of God? For many a year\nOedipus fled before that man, in fear\nTo slay him. And behold we find him thus\nSlain by a chance death, not by Oedipus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[OEDIPUS <em>comes out from the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O wife, O face I love to look upon,\nWhy call'st thou me from where I sat alone?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Give ear, and ponder from what this man tells\nHow end these proud priests and their oracles."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whence comes he? And what word hath he for us?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From Corinth; bearing news that Polybus\nThy father is no more. He has found his death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How?—Stranger, speak thyself. This that she saith ..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is sure. If that is the first news ye crave,\nI tell thee, Polybus lieth in his grave."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not murdered?... How? Some passing of disease?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A slight thing turns an old life to its peace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 962-978]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Poor father!... 'Tis by sickness he is dead?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The growing years lay heavy on his head."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O wife, why then should man fear any more\nThe voice of Pytho's dome, or cower before\nThese birds that shriek above us? They foretold\nMe for my father's murderer; and behold,\nHe lies in Corinth dead, and here am I\nAnd never touched the sword.... Or did he die\nIn grief for me who left him? In that way\nI may have wrought his death.... But come what may,\nHe sleepeth in his grave and with him all\nThis deadly seercraft, of no worth at all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dear Lord, long since did I not show thee clear...?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Indeed, yes. I was warped by mine own fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Now thou wilt cast it from thee, and forget."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Forget my mother?... It is not over yet."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What should man do with fear, who hath but Chance\nAbove him, and no sight nor governance"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 979-993]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of things to be? To live as life may run,\nNo fear, no fret, were wisest 'neath the sun.\nAnd thou, fear not thy mother. Prophets deem\nA deed wrought that is wrought but in a dream.\nAnd he to whom these things are nothing, best\nWill bear his burden."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "All thou counsellest\nWere good, save that my mother liveth still.\nAnd, though thy words be wise, for good or ill\nHer I still fear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Think of thy father's tomb!\nLike light across our darkness it hath come."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Great light; but while she lives I fly from her."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What woman, Prince, doth fill thee so with fear?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Meropê, friend, who dwelt with Polybus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What in Queen Meropê should fright thee thus?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A voice of God, stranger, of dire import."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Meet for mine ears? Or of some secret sort?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 994-1009]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay, thou must hear, and Corinth. Long ago\nApollo spake a doom, that I should know\nMy mother's flesh, and with mine own hand spill\nMy father's blood.—'Tis that, and not my will,\nHath kept me always far from Corinth. So;\nLife hath dealt kindly with me, yet men know\nOn earth no comfort like a mother's face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis that, hath kept thee exiled in this place?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That, and the fear too of my father's blood."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then, surely, Lord ... I came but for thy good ...\n'Twere well if from that fear I set thee free."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah, couldst thou! There were rich reward for thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To say truth, I had hoped to lead thee home\nNow, and myself to get some good therefrom."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay; where my parents are I will not go."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My son, 'tis very clear thou dost not know\nWhat road thou goest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How? In God's name, say!\nHow clear?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1010-1019]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis this, keeps thee so long away\nFrom Corinth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis the fear lest that word break\nOne day upon me true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fear lest thou take\nDefilement from the two that gave thee birth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis that, old man, 'tis that doth fill the earth\nWith terror."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then thy terror all hath been\nFor nothing."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How? Were not your King and Queen\nMy parents?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Polybus was naught to thee\nIn blood."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How? He, my father!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That was he\nAs much as I, but no more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou art naught;\n'Twas he begot me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1020-1028]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas not I begot\nOedipus, neither was it he."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What wild\nFancy, then, made him name me for his child?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou wast his child—by gift. Long years ago\nMine own hand brought thee to him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Coming so,\nFrom a strange hand, he gave me that great love?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He had no child, and the desire thereof\nHeld him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And thou didst find somewhere—or buy—\nA child for him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I found it in a high\nGlen of Kithairon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Movement of</em> JOCASTA, <em>who stands riveted\nwith dread, unnoticed by the others.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yonder? To what end\nWast travelling in these parts?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I came to tend\nThe flocks here on the mountain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1029-1037]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou wast one\nThat wandered, tending sheep for hire?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My son,\nThat day I was the saviour of a King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How saviour? Was I in some suffering\nOr peril?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thine own feet a tale could speak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah me! What ancient pain stirs half awake\nWithin me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas a spike through both thy feet.\nI set thee free."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A strange scorn that, to greet\nA babe new on the earth!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From that they fain\nMust call thee Oedipus, \"<em>Who-walks-in-pain</em>.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Who called me so—father or mother? Oh,\nIn God's name, speak!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1038-1046]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know not. He should know\nWho brought thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So: I was not found by thee.\nThou hadst me from another?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Aye; to me\nOne of the shepherds gave the babe, to bear\nFar off."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What shepherd? Know'st thou not? Declare\nAll that thou knowest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By my memory, then,\nI think they called him one of Laïus' men."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That Laïus who was king in Thebes of old?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The same. My man did herding in his fold."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Is he yet living? Can I see his face?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Turning to the Chorus.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ye will know that, being natives to the place."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1047-1062]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How?—Is there one of you within my pale\nStanding, that knows the shepherd of his tale?\nYe have seen him on the hills? Or in this town?\nSpeak! For the hour is come that all be known."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I think 'twill be the Peasant Man, the same,\nThou hast sought long time to see.—His place and name\nOur mistress, if she will, can tell most clear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[JOCASTA <em>remains as if she heard nothing.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou hear'st him, wife. The herd whose presence here\nWe craved for, is it he this man would say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He saith ... What of it? Ask not; only pray\nNot to remember.... Tales are vainly told."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis mine own birth. How can I, when I hold\nSuch clues as these, refrain from knowing all?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For God's love, no! Not if thou car'st at all\nFor thine own life.... My anguish is enough."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS (<em>bitterly</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fear not!... Though I be thrice of slavish stuff\nFrom my third grand-dam down, it shames not thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1063-1075]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ask no more. I beseech thee.... Promise me!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To leave the Truth half-found? 'Tis not my mood."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I understand; and tell thee what is good."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thy good doth weary me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O child of woe,\nI pray God, I pray God, thou never know!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS (<em>turning from her</em>)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Go, fetch the herdsman straight!—This Queen of mine\nMay walk alone to boast her royal line."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "JOCASTA."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She twice draws in her breath through her\nteeth, as if in some sharp pain.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Unhappy one, goodbye! Goodbye before\nI go: this once, and never never more!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>She comes towards him as though to take a last\nfarewell, then stops suddenly, turns, and\nrushes into the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "King, what was that? She passed like one who flies\nIn very anguish. Dread is o'er mine eyes\nLest from this silence break some storm of wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1076-1097]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Break what break will! My mind abideth strong\nTo know the roots, how low soe'er they be,\nWhich grew to Oedipus. This woman, she\nIs proud, methinks, and fears my birth and name\nWill mar her nobleness. But I, no shame\nCan ever touch me. I am Fortune's child,\nNot man's; her mother face hath ever smiled\nAbove me, and my brethren of the sky,\nThe changing Moons, have changed me low and high.\nThere is my lineage true, which none shall wrest\nFrom me; who then am I to fear this quest?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They sing</em> OEDIPUS <em>as the foundling of their\nown Theban mountain, Kithairon, and\ndoubtless of divine birth.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I, O Kithairon, some vision can borrow"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From seercraft, if still there is wit in the old,\nLong, long, through the deep-orbèd Moon of the morrow—"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "So hear me, Olympus!—thy tale shall be told.\nO mountain of Thebes, a new Theban shall praise thee,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One born of thy bosom, one nursed at thy springs;\nAnd the old men shall dance to thy glory, and raise thee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To worship, O bearer of joy to my kings.\nAnd thou, we pray,\nLook down in peace, O Apollo; I-ê, I-ê!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1098-1120]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What Oread mother, unaging, unweeping,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did bear thee, O Babe, to the Crag-walker Pan;\nOr perchance to Apollo? He loveth the leaping"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Of herds on the rock-ways unhaunted of man.\nOr was it the lord of Cyllênê, who found thee,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Or glad Dionysus, whose home is the height,\nWho knew thee his own on the mountain, as round thee"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The White Brides of Helicon laughed for delight?\n'Tis there, 'tis there,\nThe joy most liveth of all his dance and prayer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If I may judge, ye Elders, who have ne'er\nSeen him, methinks I see the shepherd there\nWhom we have sought so long. His weight of years\nFits well with our Corinthian messenger's;\nAnd, more, I know the men who guide his way,\nBondsmen of mine own house.\nThou, friend, wilt say\nMost surely, who hast known the man of old."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I know him well. A shepherd of the fold\nOf Laïus, one he trusted more than all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The</em> SHEPHERD <em>comes in, led by two thralls.\nHe is an old man and seems terrified.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou first, our guest from Corinth: say withal\nIs this the man?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1120-1130]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This is the man, O King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Addressing the</em> SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Old man! Look up, and answer everything\nI ask thee.—Thou wast Laïus' man of old?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Born in his house I was, not bought with gold."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What kind of work, what way of life, was thine?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Most of my days I tended sheep or kine."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What was thy camping ground at midsummer?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Sometimes Kithairon, sometimes mountains near."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Saw'st ever there this man thou seëst now?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There, Lord? What doing?—What man meanest thou?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Pointing to the</em> STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Look! Hath he ever crossed thy path before?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1131-1146]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I call him not to mind, I must think more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Small wonder that, O King! But I will throw\nLight on his memories.—Right well I know\nHe knows the time when, all Kithairon through,\nI with one wandering herd and he with two,\nThree times we neighboured one another, clear\nFrom spring to autumn stars, a good half-year.\nAt winter's fall we parted; he drove down\nTo his master's fold, and I back to mine own....\nDost call it back, friend? Was it as I say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was. It was.... 'Tis all so far away."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Say then: thou gavest me once, there in the wild,\nA babe to rear far off as mine own child?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>His terror returning.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What does this mean? To what end askest thou?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Pointing to</em> OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That babe has grown, friend. 'Tis our master now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He slowly understands, then stands for a moment horror-struck.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No, in the name of death!... Fool, hold thy peace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He lifts his staff at the</em> STRANGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1147-1157]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ha, greybeard! Wouldst thou strike him?—'Tis not his\nOffences, 'tis thine own we need to mend."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Most gentle master, how do I offend?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whence came that babe whereof he questioneth?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He doth not know ... 'tis folly ... what he saith."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou wilt not speak for love; but pain maybe ..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I am very old. Ye would not torture me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Back with his arms, ye bondmen! Hold him so."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>The thralls drag back the</em> SHEPHERD'S\n<em>arms, ready for torture.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Woe's me! What have I done?... What wouldst thou know?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Didst give this man the child, as he doth say?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I did.... Would God that I had died this day!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1158-1167]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Fore heaven, thou shalt yet, if thou speak not true."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis more than death and darker, if I do."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "This dog, it seems, will keep us waiting."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay,\nI said at first I gave it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In what way\nCame it to thee? Was it thine own child, or\nAnother's?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nay, it never crossed my door:\nAnother's."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Whose? What man, what house, of these\nAbout thee?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In the name of God who sees,\nAsk me no more!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If once I ask again,\nThou diest."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "From the folk of Laïus, then,\nIt came."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1168-1176]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A slave, or born of Laïus' blood?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There comes the word I dread to speak, O God!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And I to hear: yet heard it needs must be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Know then, they said 'twas Laïus' child. But she\nWithin, thy wife, best knows its fathering."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas she that gave it?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "It was she, O King."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And bade you ... what?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Destroy it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS.\nHer own child?...\nCruel!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Dark words of God had made her wild."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What words?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1176-1192]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The babe must slay his father; so\n'Twas written."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Why didst thou, then, let him go\nWith this old man?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "SHEPHERD."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O King, I pitied him.\nI thought the man would save him to some dim\nAnd distant land, beyond all fear.... And he,\nTo worse than death, did save him!... Verily,\nIf thou art he whom this man telleth of,\nTo sore affliction thou art born."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Enough!\nAll, all, shall be fulfilled.... Oh, on these eyes\nShed light no more, ye everlasting skies\nThat know my sin! I have sinned in birth and breath.\nI have sinned with Woman. I have sinned with Death."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>He rushes into the Palace. The</em> SHEPHERD\n<em>is led away by the thralls.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Nothingness, nothingness,\nYe Children of Man, and less\nI count you, waking or dreaming!\nAnd none among mortals, none,\nSeeking to live, hath won\nMore than to seem, and to cease\nAgain from his seeming."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1193-1212]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "While ever before mine eyes\nOne fate, one ensample, lies—\nThine, thine, O Oedipus, sore\nOf God oppressèd—\nWhat thing that is human more\nDare I call blessèd?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Straight his archery flew\nTo the heart of living; he knew\nJoy and the fulness of power,\nO Zeus, when the riddling breath\nWas stayed and the Maid of Death\nSlain, and we saw him through\nThe death-cloud, a tower!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "For that he was called my king;\nYea, every precious thing\nWherewith men are honoured, down\nWe cast before him,\nAnd great Thebes brought her crown\nAnd kneeled to adore him."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But now, what man's story is such bitterness to speak?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What life hath Delusion so visited, and Pain,\nAnd swiftness of Disaster?\nO great King, our master,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How oped the one haven to the slayer and the slain?\nAnd the furrows of thy father, did they turn not nor shriek,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Did they bear so long silent thy casting of the grain?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1213-1235]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis Time, Time, desireless, hath shown thee what thou art;"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The long monstrous mating, it is judged and all its race.\nO child of him that sleepeth,\nThy land weepeth, weepeth,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Unfathered.... Would God, I had never seen thy face!\nFrom thee in great peril fell peace upon my heart,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In thee mine eye clouded and the dark is come apace."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>A</em> MESSENGER <em>rushes out from the Palace.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "MESSENGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O ye above this land in honour old\nExalted, what a tale shall ye be told,\nWhat sights shall see, and tears of horror shed,\nIf still your hearts be true to them that led\nYour sires! There runs no river, well I ween,\nNot Phasis nor great Ister, shall wash clean\nThis house of all within that hideth—nay,\nNor all that creepeth forth to front the day,\nOf purposed horror. And in misery\nThat woundeth most which men have willed to be."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "No lack there was in what we knew before\nOf food for heaviness. What bring'st thou more?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "MESSENGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One thing I bring thee first.... 'Tis quickly said.\nJocasta, our anointed queen, is dead."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1236-1260]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Unhappy woman! How came death to her?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "MESSENGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By her own hand.... Oh, of what passed in there\nYe have been spared the worst. Ye cannot see.\nHowbeit, with that which still is left in me\nOf mind and memory, ye shall hear her fate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Like one entranced with passion, through the gate\nShe passed, the white hands flashing o'er her head,\nLike blades that tear, and fled, unswerving fled,\nToward her old bridal room, and disappeared\nAnd the doors crashed behind her. But we heard\nHer voice within, crying to him of old,\nHer Laïus, long dead; and things untold\nOf the old kiss unforgotten, that should bring\nThe lover's death and leave the loved a thing\nOf horror, yea, a field beneath the plough\nFor sire and son: then wailing bitter-low\nAcross that bed of births unreconciled,\nHusband from husband born and child from child.\nAnd, after that, I know not how her death\nFound her. For sudden, with a roar of wrath,\nBurst Oedipus upon us. Then, I ween,\nWe marked no more what passion held the Queen,\nBut him, as in the fury of his stride,\n\"A sword! A sword! And show me here,\" he cried,\n\"That wife, no wife, that field of bloodstained earth\nWhere husband, father, sin on sin, had birth,\nPolluted generations!\" While he thus\nRaged on, some god—for sure 'twas none of us—\nShowed where she was; and with a shout away,\nAs though some hand had pointed to the prey,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1261-1286]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He dashed him on the chamber door. The straight\nDoor-bar of oak, it bent beneath his weight,\nShook from its sockets free, and in he burst\nTo the dark chamber.\nThere we saw her first\nHanged, swinging from a noose, like a dead bird.\nHe fell back when he saw her. Then we heard\nA miserable groan, and straight he found\nAnd loosed the strangling knot, and on the ground\nLaid her.—Ah, then the sight of horror came!\nThe pin of gold, broad-beaten like a flame,\nHe tore from off her breast, and, left and right,\nDown on the shuddering orbits of his sight\nDashed it: \"Out! Out! Ye never more shall see\nMe nor the anguish nor the sins of me.\nYe looked on lives whose like earth never bore,\nYe knew not those my spirit thirsted for:\nTherefore be dark for ever!\"\nLike a song\nHis voice rose, and again, again, the strong\nAnd stabbing hand fell, and the massacred\nAnd bleeding eyeballs streamed upon his beard,\nWild rain, and gouts of hail amid the rain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Behold affliction, yea, afflictions twain\nFrom man and woman broken, now made one\nIn downfall. All the riches yester sun\nSaw in this house were rich in verity.\nWhat call ye now our riches? Agony,\nDelusion, Death, Shame, all that eye or ear\nHath ever dreamed of misery, is here."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "And now how fares he? Doth the storm abate?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1287-1308]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "MESSENGER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "He shouts for one to open wide the gate\nAnd lead him forth, and to all Thebes display\nHis father's murderer, his mother's.... Nay,\nSuch words I will not speak. And his intent\nIs set, to cast himself in banishment\nOut to the wild, not walk 'mid human breed\nBearing the curse he bears. Yet sore his need\nOf strength and of some guiding hand. For sure\nHe hath more burden now than man may endure."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But see, the gates fall back, and that appears\nWhich he who loathes shall pity—yea, with tears."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[OEDIPUS <em>is led in, blinded and bleeding. The\nOld Men bow down and hide their faces;\nsome of them weep.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, terrible! Oh, sight of all\nThis life hath crossed, most terrible!\nThou man more wronged than tongue can tell,\nWhat madness took thee? Do there crawl\nLive Things of Evil from the deep\nTo leap on man? Oh, what a leap\nWas His that flung thee to thy fall!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O fallen, fallen in ghastly case,\nI dare not raise mine eyes to thee;\nFain would I look and ask and see,\nBut shudder sickened from thy face."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Oh, pain; pain and woe!\nWhither? Whither?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1308-1328]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "They lead me and I go;\nAnd my voice drifts on the air\nFar away.\nWhere, Thing of Evil, where\nEndeth thy leaping hither?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In fearful ends, which none may hear nor say."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cloud of the dark, mine own\nFor ever, horrible,\nStealing, stealing, silent, unconquerable,\nCloud that no wind, no summer can dispel!\nAgain, again I groan,\nAs through my heart together crawl the strong\nStabs of this pain and memories of old wrong."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Yea, twofold hosts of torment hast thou there,\nThe stain to think on and the pain to bear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O Friend, thou mine own\nStill faithful, minister\nSteadfast abiding alone of them that were,\nDost bear with me and give the blind man care?\nAh me! Not all unknown\nNor hid thou art. Deep in this dark a call\nComes and I know thy voice in spite of all."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O fearful sufferer, and could'st thou kill\nThy living orbs? What God made blind thy will?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1329-1351]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Strophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis Apollo; all is Apollo,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O ye that love me, 'tis he long time hath planned\nThese things upon me evilly, evilly,\nDark things and full of blood.\nI knew not; I did but follow"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His way; but mine the hand\nAnd mine the anguish. What were mine eyes to me\nWhen naught to be seen was good?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis even so; and Truth doth speak in thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To see, to endure, to hear words kindly spoken,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Should I have joy in such?\nOut, if ye love your breath,\nCast me swift unto solitude, unbroken"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "By word or touch.\nAm I not charged with death,\nMost charged and filled to the brim\nWith curses? And what man saith\nGod hath so hated him?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thy bitter will, thy hard calamity,\nWould I had never known nor looked on thee!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>Antistrophe.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "My curse, my curse upon him,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That man whom pity held in the wilderness,\nWho saved the feet alive from the blood-fetter\nAnd loosed the barb thereof!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1351-1377]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That babe—what grace was done him,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Had he died shelterless,\nHe had not laid on himself this grief to bear,\nAnd all who gave him love."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I, too, O Friend, I had been happier."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Found not the way to his father's blood, nor shaken\nThe world's scorn on his mother,\nThe child and the groom withal;\nBut now, of murderers born, of God forsaken,\nMine own sons' brother;\nAll this, and if aught can fall\nUpon man more perilous\nAnd elder in sin, lo, all\nIs the portion of Oedipus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "How shall I hold this counsel of thy mind\nTrue? Thou wert better dead than living blind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That this deed is not well and wisely wrought\nThou shalt not show me; therefore school me not.\nThink, with what eyes hereafter in the place\nOf shadows could I see my father's face,\nOr my poor mother's? Both of whom this hand\nHath wronged too deep for man to understand.\nOr children—born as mine were born, to see\nTheir shapes should bring me joy? Great God!\nTo me"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1378-1403]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "There is no joy in city nor in tower\nNor temple, from all whom, in this mine hour,\nI that was chief in Thebes alone, and ate\nThe King's bread, I have made me separate\nFor ever. Mine own lips have bid the land\nCast from it one so evil, one whose hand\nTo sin was dedicate, whom God hath shown\nBirth-branded ... and my blood the dead King's own!\nAll this myself have proved. And can I then\nLook with straight eyes into the eyes of men?\nI trow not. Nay, if any stop there were\nTo dam this fount that welleth in mine ear\nFor hearing, I had never blenched nor stayed\nTill this vile shell were all one dungeon made,\nDark, without sound. 'Tis thus the mind would fain\nFind peace, self-prisoned from a world of pain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "O wild Kithairon, why was it thy will\nTo save me? Why not take me quick and kill,\nKill, before ever I could make men know\nThe thing I am, the thing from which I grow?\nThou dead King, Polybus, thou city wall\nOf Corinth, thou old castle I did call\nMy father's, what a life did ye begin,\nWhat splendour rotted by the worm within,\nWhen ye bred me! O Crossing of the Roads,\nO secret glen and dusk of crowding woods,\nO narrow footpath creeping to the brink\nWhere meet the Three! I gave you blood to drink.\nDo ye remember? 'Twas my life-blood, hot\nFrom mine own father's heart. Have ye forgot\nWhat deed I did among you, and what new\nAnd direr deed I fled from you to do?\nO flesh, horror of flesh!..."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1409-1431]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "But what is shame\nTo do should not be spoken. In God's name,\nTake me somewhere far off and cover me\nFrom sight, or slay, or cast me to the sea\nWhere never eye may see me any more."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "What? Do ye fear to touch a man so sore\nStricken? Nay, tremble not. My misery\nIs mine, and shall be borne by none but me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "LEADER."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Lo, yonder comes for answer to thy prayer\nCreon, to do and to decree. The care\nOf all our land is his, now thou art weak."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Alas, what word to Creon can I speak,\nHow make him trust me more? He hath seen of late\nSo vile a heart in me, so full of hate."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>Enter</em> CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Not to make laughter, Oedipus, nor cast\nAgainst thee any evil of the past\nI seek thee, but ... Ah God! ye ministers,\nHave ye no hearts? Or if for man there stirs\nNo pity in you, fear at least to call\nStain on our Lord the Sun, who feedeth all;\nNor show in nakedness a horror such\nAs this, which never mother Earth may touch,\nNor God's clean rain nor sunlight. Quick within!\nGuide him.—The ills that in a house have been\nThey of the house alone should know or hear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1432-1447]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "In God's name, since thou hast undone the fear\nWithin me, coming thus, all nobleness,\nTo one so vile, grant me one only grace.\nFor thy sake more I crave it than mine own."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Let me first hear what grace thou wouldst be shown."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Cast me from Thebes ... now, quick ... where none may see\nMy visage more, nor mingle words with me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That had I done, for sure, save that I still\nTremble, and fain would ask Apollo's will."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "His will was clear enough, to stamp the unclean\nThing out, the bloody hand, the heart of sin."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Twas thus he seemed to speak; but in this sore\nStrait we must needs learn surer than before."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou needs must trouble God for one so low?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Surely; thyself will trust his answer now."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I charge thee more ... and, if thou fail, my sin\nShall cleave to thee.... For her who lies within,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1448-1472]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Make as thou wilt her burial. 'Tis thy task\nTo tend thine own. But me: let no man ask\nThis ancient city of my sires to give\nHarbour in life to me. Set me to live\nOn the wild hills and leave my name to those\nDeeps of Kithairon which my father chose,\nAnd mother, for my vast and living tomb.\nAs they, my murderers, willed it, let my doom\nFind me. For this my very heart doth know,\nNo sickness now, nor any mortal blow,\nShall slay this body. Never had my breath\nBeen thus kept burning in the midst of death,\nSave for some frightful end. So, let my way\nGo where it listeth.\nBut my children—Nay,\nCreon, my sons will ask thee for no care.\nMen are they, and can find them everywhere\nWhat life needs. But my two poor desolate\nMaidens.... There was no table ever set\nApart for them, but whatso royal fare\nI tasted, they were with me and had share\nIn all.... Creon, I pray, forget them not.\nAnd if it may be, go, bid them be brought,"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[CREON <em>goes and presently returns with the\ntwo princesses.</em> OEDIPUS <em>thinks he is\nthere all the time.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "That I may touch their faces, and so weep....\nGo, Prince. Go, noble heart!...\nIf I might touch them, I should seem to keep\nAnd not to have lost them, now mine eyes are gone....\nWhat say I?\nIn God's name, can it be I hear mine own"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1473-1505]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Beloved ones sobbing? Creon of his grace\nHath brought my two, my dearest, to this place.\nIs it true?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "'Tis true. I brought them, for in them I know\nThy joy is, the same now as long ago."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "God bless thee, and in this hard journey give\nSome better guide than mine to help thee live."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Children! Where are ye? Hither; come to these\nArms of your ... brother, whose wild offices\nHave brought much darkness on the once bright eyes\nOf him who grew your garden; who, nowise\nSeeing nor understanding, digged a ground\nThe world shall shudder at. Children, my wound\nIs yours too, and I cannot meet your gaze\nNow, as I think me what remaining days\nOf bitter living the world hath for you.\nWhat dance of damsels shall ye gather to,\nWhat feast of Thebes, but quick ye shall turn home,\nAll tears, or ere the feast or dancers come?\nAnd, children, when ye reach the years of love,\nWho shall dare wed you, whose heart rise above\nThe peril, to take on him all the shame\nThat cleaves to my name and my children's name?\nGod knows, it is enough!...\nMy flowers, ye needs must die, waste things, bereft\nAnd fruitless.\nCreon, thou alone art left\nTheir father now, since both of us are gone\nWho cared for them. Oh, leave them not alone"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1505-1518]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To wander masterless, these thine own kin,\nAnd beggared. Neither think of them such sin\nAs ye all know in me, but let their fate\nTouch thee. So young they are, so desolate—\nOf all save thee. True man, give me thine hand,\nAnd promise."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[OEDIPUS <em>and</em> CREON <em>clasp hands.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "If your age could understand,\nChildren, full many counsels I could give.\nBut now I leave this one word: Pray to live\nAs life may suffer you, and find a road\nTo travel easier than your father trod."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Enough thy heart hath poured its tears; now back into\nthine house repair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I dread the house, yet go I must."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Fair season maketh all things fair."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "One oath then give me, and I go."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Name it, and I will answer thee."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "To cast me from this land."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1519-1523]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "A gift not mine but God's thou askest me."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I am a thing of God abhorred."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The more, then, will he grant thy prayer."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Thou givest thine oath?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "I see no light; and, seeing not, I may not swear."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then take me hence. I care not."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Go in peace, and give these children o'er."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "OEDIPUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ah no! Take not away my daughters!"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[<em>They are taken from him.</em>"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CREON."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Seek not to be master more. Did not thy"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "masteries of old forsake thee when the end was near?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "![Sidenote: vv. 1524-1530]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "CHORUS."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Ye citizens of Thebes, behold; 'tis Oedipus that passeth here,\nWho read the riddle-word of Death, and mightiest stood of mortal"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "men,\nAnd Fortune loved him, and the folk that saw him turned and looked"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "again.\nLo, he is fallen, and around great storms and the outreaching sea!\nTherefore, O Man, beware, and look toward the end of things that be,\nThe last of sights, the last of days; and no man's life account as gain\nEre the full tale be finished and the darkness find him without pain."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "[OEDIPUS <em>is led into the house and the doors\nclose on him.</em>"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "Notes To Oedipus, King Of Thebes"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 4, l. 21: Dry Ash of Ismênus.]—Divination by burnt offerings was\npractised at an altar of Apollo by the river Ismenus in Thebes."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Observe how many traits Oedipus retains of the primitive king, who was\nat once chief and medicine-man and god. The Priest thinks it necessary\nto state explicitly that he does not regard Oedipus as a god, but he is\nclearly not quite like other men. And it seems as if Oedipus himself\nrealised in this scene that the oracle from Delphi might well demand the\nking's life. Cf. p. 6, \"what deed of mine, what bitter task, May save my\ncity\"; p. 7, \"any fear for mine own death.\" This thought, present\nprobably in more minds than his, greatly increases the tension of the\nscene. Cf. <em>Anthropology and the Classics</em>, pp. 74-79.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 7, l. 87, Message of joy.]—Creon says this for the sake of the omen.\nThe first words uttered at such a crisis would be ominous and tend to\nfulfil themselves.]"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pp. 13-16, ll. 216-275. The long cursing speech of Oedipus.]—Observe\nthat this speech is broken into several divisions, Oedipus at each point\nexpecting an answer and receiving none. Thus it is not mere declamation;\nit involves action and reaction between a speaker and a crowd.—Every\nreader will notice how full it is of \"tragic irony.\" Almost every\nparagraph carries with it some sinister meaning of which the speaker is\nunconscious. Cf. such phrases as \"if he tread my hearth,\" \"had but his\nissue been more fortunate,\" \"as I would for mine own father,\" and of\ncourse the whole situation."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 25, l. 437, Who were they?]—This momentary doubt of Oedipus, who of\ncourse regarded himself as the son of Polybus, King of Corinth, is\nexplained later (p. 46, l. 780)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pp. 29 ff. The Creon scene.]—The only part of the play which could\npossibly be said to flag. Creon's defence, p. 34, \"from probabilities,\"\nas the rhetoricians would have called it, seems less interesting to us\nthan it probably did to the poet's contemporaries. It is remarkably like\nHippolytus's defence (pp. 52 f. of my translation), and probably one was\nsuggested by the other. We cannot be sure which was the earlier play."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "The scene serves at least to quicken the pace of the drama, to bring out\nthe impetuous and somewhat tyrannical nature of Oedipus, and to prepare\nthe magnificent entrance of Jocasta."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 36, l. 630, Thebes is my country.]—It must be remembered that to the\nChorus Creon is a real Theban, Oedipus a stranger from Corinth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 41, Conversation of Oedipus and Jocasta.]—The technique of this\nwonderful scene, an intimate self-revealing conversation between husband\nand wife about the past, forming the pivot of the play, will remind a\nmodern reader of Ibsen."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 42, l. 718.]—Observe that Jocasta does not tell the whole truth. It\nwas she herself who gave the child to be killed (p. 70, l. 1173)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 42, l. 730, Crossing of Three Ways.]—Cross roads always had dark\nassociations. This particular spot was well known to tradition and is\nstill pointed out. \"A bare isolated hillock of grey stone stands at the\npoint where our road from Daulia meets the road to Delphi and a third\nroad that stretches to the south.... The road runs up a frowning pass\nbetween Parnassus on the right hand and the spurs of the Helicon range\non the left. Away to the south a wild and desolate valley opens, running\nup among the waste places of Helicon, a scene of inexpressible grandeur\nand desolation\" (Jebb, abridged)."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 44, l. 754, Who could bring, &c.]—Oedipus of course thought he had\nkilled them all. See his next speech."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 51.]—Observe the tragic effect of this prayer. Apollo means to\ndestroy Jocasta, not to save her; her prayer is broken across by the\nentry of the Corinthian Stranger, which seems like a deliverance but is\nreally a link in the chain of destruction. There is a very similar\neffect in Sophocles' <em>Electra</em>, 636-659, Clytaemnestra's prayer; compare\nalso the prayers to Cypris in Euripides' <em>Hippolytus</em>."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 51, l. 899.]—Abae was an ancient oracular shrine in Boeotia; Olympia\nin Elis was the seat of the Olympian Games and of a great Temple of\nZeus."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 52, l. 918, O Slayer of the Wolf, O Lord of Light.]—The names\nLykeios, Lykios, &c., seem to have two roots, one meaning \"Wolf\" and the\nother \"Light.\""
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 56, l. 987, Thy father's tomb Like light across our darkness.]—This\nghastly line does not show hardness of heart, it shows only the terrible\nposition in which Oedipus and Jocasta are. Naturally Oedipus would give\nthanks if his father was dead. Compare his question above, p. 54, l.\n960, \"Not murdered?\"—He cannot get the thought of the fated murder out\nof his mind."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 57, l. 994.]—Why does Oedipus tell the Corinthian this oracle, which\nhe has kept a secret even from his wife till to-day?—Perhaps because,\nif there is any thought of his going back to Corinth, his long voluntary\nexile must be explained. Perhaps, too, the secret possesses his mind so\noverpoweringly that it can hardly help coming out."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pp. 57, 58, ll. 1000-1020.]—It is natural that the Corinthian hesitates\nbefore telling a king that he is really not of royal birth."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Pp. 64, 65, ll. 1086-1109.]—This joyous Chorus strikes a curious note.\nOf course it forms a good contrast with what succeeds, but how can the\nElders take such a serenely happy view of the discovery that Oedipus is\na foundling just after they have been alarmed at the exit of Jocasta? It\nseems as if the last triumphant speech of Oedipus, \"fey\" and almost\ntouched with megalomania as it was, had carried the feeling of the\nChorus with it."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 66, l. 1122.]—Is there any part in any tragedy so short and yet so\neffective as that of this Shepherd?"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 75, l. 1264, Like a dead bird.]—The curious word, [Greek:\nempeplêgmenên], seems to be taken from Odyssey xxii. 469, where it is\napplied to birds caught in a snare. As to the motives of Oedipus, his\nfirst blind instinct to kill Jocasta as a thing that polluted the earth;\nwhen he saw her already dead, a revulsion came."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 76, ll. 1305 ff.]—Observe how a climax of physical horror is\nimmediately veiled and made beautiful by lyrical poetry. Sophocles does\nnot, however, carry this plan of simply flooding the scene with sudden\nbeauty nearly so far as Euripides does. See <em>Hipp.</em>, p. 39; <em>Trojan\nWomen</em>, p. 51."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 83, ll. 1450 ff., Set me to live on the wild hills.]—These lines\nserve to explain the conception, existing in the poet's own time, of\nOedipus as a daemon or ghost haunting Mount Kithairon."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "P. 86, l. 1520, Creon.]—Amid all Creon's whole-hearted forgiveness of\nOedipus and his ready kindness there are one or two lines of his which\nstrike a modern reader as tactless if not harsh. Yet I do not think that\nSophocles meant to produce that effect. At the present day it is not in\nthe best manners to moralise over a man who is down, any more than it is\nthe part of a comforter to expound and insist upon his friend's\nmisfortunes. But it looks as if ancient manners expected, and even\ndemanded, both. Cf. the attitude of Theseus to Adrastus in Eur.,\n<em>Suppliants</em>."
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "The End"
+  }
+]
